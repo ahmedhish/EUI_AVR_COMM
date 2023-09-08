@@ -17,7 +17,7 @@
     Sets interface data length (DL), number of display lines (N), and character font (F).
     DL = 1: 8 bits, DL = 0: 4 bits
     N = 1: 2 lines, N = 0: 1 line
-    F = 1: 5 × 10 dots, F = 0: 5 × 8 dots
+    F = 1: 5 Ã— 10 dots, F = 0: 5 Ã— 8 dots
 */
 #define FUNCTION_SET			   0x28
 #define CLEAR_DISPLAY			   0x01
